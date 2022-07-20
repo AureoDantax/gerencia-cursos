@@ -1,7 +1,7 @@
 package br.com.gerencia.cursos.test;
 
-import br.com.gerencia.cursos.main.Aula;
-import br.com.gerencia.cursos.main.Curso;
+import br.com.gerencia.cursos.models.Aula;
+import br.com.gerencia.cursos.models.Curso;
 
 import java.util.List;
 

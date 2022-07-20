@@ -1,6 +1,6 @@
 package br.com.gerencia.cursos.test;
 
-import br.com.gerencia.cursos.main.Aula;
+import br.com.gerencia.cursos.models.Aula;
 
 import java.util.ArrayList;
 import java.util.Collections;

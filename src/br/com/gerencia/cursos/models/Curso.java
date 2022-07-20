@@ -1,4 +1,4 @@
-package br.com.gerencia.cursos.main;
+package br.com.gerencia.cursos.models;
 
 import java.util.*;
 
