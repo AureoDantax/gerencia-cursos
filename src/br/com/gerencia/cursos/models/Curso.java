@@ -7,7 +7,7 @@ public class Curso {
     private final String nome;
     private String instrutor;
     private List<Aula> aula = new LinkedList<Aula>();
-    private Set<Aluno> alunos = new LinkedHashSet<>();
+    private Set<Aluno> alunos = new HashSet<>();
     private Map<Integer, Aluno> matriculaAluno = new HashMap();
     public Curso(String nome, String instrutor) {
         this.nome = nome;
